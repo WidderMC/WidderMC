@@ -1,6 +1,7 @@
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fy4KuxYKVD) 
+[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C.svg?style=for-the-badge&logo=Modrinth&logoColor=white)](https://modrinth.com/user/Widder)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/https://discord.gg/fy4KuxYKVD)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

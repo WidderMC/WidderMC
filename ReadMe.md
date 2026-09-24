@@ -14,6 +14,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WidderMC/WidderMC/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

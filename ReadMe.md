@@ -5,7 +5,7 @@ I'm **Widder**, a Minecraft developer focused on building **small, lightweight a
 I like making things that are **simple to install, easy to use, and don't get in your way**.  
 Most of my projects are built around **vanilla-friendly gameplay, server-side mechanics, and small quality-of-life improvements**.
 
-## 📦 Projects#:
+## 📦 Projects:
 
  - **[Better Death](<https://modrinth.com/datapack/better-death-by-widder>)** — A Datapack/Mod that bundles dropped items together after death.
 - **[SMP-Starter](<https://modrinth.com/datapack/smp-starter>)** — A Datapack/Mod that simplifies the start of a Minecraft server with a small script that opens the world border, changes the game mode, and enables PvP.

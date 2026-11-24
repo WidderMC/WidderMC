@@ -16,10 +16,10 @@ Most of my projects are built around **vanilla-friendly gameplay, server-side me
 - **[Simple Marry](<https://modrinth.com/mod/simplemarry>)** — A simple mod that lets you marry other players.
 - **[AntiEnderdragonRespawn](<https://modrinth.com/datapack/antienderdragonrespawn>)** — A simple Datapack/Mod that prevents the Ender Dragon from being respawned.
 - **[Transfer Plus](https://modrinth.com/mod/transfer-plus)** — A Mod thats Add a Command thats can Connect you to a other Server.
+- **[Level = Border Revamped](https://modrinth.com/mod/level-border-revamped)** — Adds a border that expands as your level increases. Playable with friends!
 
 ## 🪛 Not yet public:
 
-- **[Level = Border Revamped](https://modrinth.com/mod/level-border-revamped)** — Adds a border that expands as your level increases. Playable with friends!
 - **[Play Time Tracker](https://github.com/WidderMC/PlayTimeTracker)** — Track Your Players’ Activity.
 
 
